@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/Reinaldooo/gama-bank/blob/readme-md/src/assets/reaccenture-equipe.png" alt="Unform"/>
+  <img src="https://github.com/LaisMaas/gama-bank-mobile/blob/master/assets/apresentacao-app-gama-bank-mobile.gif" alt="Unform"/>
 </p>
 <br/><br/>
 
