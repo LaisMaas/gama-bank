@@ -4,7 +4,7 @@
 
 <p align="center">
 
-  <img src="https://github.com/LaisMaas/gama-bank/blob/master/src/assets/dashboard-consulta.png" alt="Unform"/>
+  <img src="https://github.com/LaisMaas/gama-bank/blob/master/src/assets/reaccenture-equipe.png" alt="Unform"/>
 </p>
 <br/><br/>
 
